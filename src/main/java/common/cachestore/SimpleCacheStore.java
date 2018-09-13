@@ -15,7 +15,7 @@
  *  limitations under the License.
  */
 
-package main.java.common.cachestore;
+package common.cachestore;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

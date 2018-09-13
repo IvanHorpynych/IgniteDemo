@@ -18,4 +18,4 @@
 /**
  * Vehicle service source files.
  */
-package main.java.services;
+package services;

@@ -14,7 +14,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package main.java.services.maintenance;
+package services.maintenance;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

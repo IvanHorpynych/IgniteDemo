@@ -14,15 +14,14 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package main.java.app;
+package app;
 
 import org.apache.ignite.*;
 import services.maintenance.common.MaintenanceService;
 import services.vehicles.common.Vehicle;
 import services.vehicles.common.VehicleService;
 
-import java.util.Date;
-import java.util.Objects;
+
 import java.util.Random;
 
 

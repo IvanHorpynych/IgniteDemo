@@ -22,5 +22,5 @@
  * At the moment, the package includes cache and service related filters that are executed for every node that is a part
  * of the cluster or will join it.
  */
-package main.java.common;
+package common;
 

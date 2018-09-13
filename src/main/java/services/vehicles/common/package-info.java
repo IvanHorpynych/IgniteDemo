@@ -18,4 +18,4 @@
 /**
  * Created by dmagda on 1/3/17.
  */
-package main.java.services.vehicles.common;
+package services.vehicles.common;

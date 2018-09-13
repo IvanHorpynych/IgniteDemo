@@ -15,7 +15,7 @@
  *  limitations under the License.
  */
 
-package main.java.common.filters;
+package common.filters;
 
 import org.apache.ignite.cluster.ClusterNode;
 import org.apache.ignite.lang.IgnitePredicate;

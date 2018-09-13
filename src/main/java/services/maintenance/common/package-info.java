@@ -19,4 +19,4 @@
  * The package contains classes that have to be added to the classpath of the nodes where Maintenance service might
  * be deployed or which can access the service by means of the service proxy.
  */
-package main.java.services.maintenance.common;
+package services.maintenance.common;

@@ -14,7 +14,7 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
-package main.java.services.vehicles.common;
+package services.vehicles.common;
 
 import org.apache.ignite.IgniteServices;
 import org.apache.ignite.services.Service;

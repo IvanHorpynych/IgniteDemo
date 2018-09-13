@@ -18,4 +18,4 @@
 /**
  * Maintenance service source files.
  */
-package main.java.services.maintenance;
+package services.maintenance;
